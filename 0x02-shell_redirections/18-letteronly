@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -1 "A[a-z]* /etc/sshd_confiq
+grep -1 "'[a-z]* /etc/sshd_confiq
